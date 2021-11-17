@@ -1,0 +1,18 @@
+[
+  {
+    "package": "freesurferformats",
+    "oncran": true
+  },
+  {
+    "package": "fsbrain",
+    "oncran": true
+  },
+  {
+    "package": "pkgfilecache",
+    "oncran": true
+  },
+  {
+    "package": "wal",
+    "oncran": true
+  }
+]

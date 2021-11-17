@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "freesurferformats"]
+	path = freesurferformats
+	url = https://github.com/dfsp-spirit/freesurferformats
+	shallow = true
+	registered = true
+[submodule "fsbrain"]
+	path = fsbrain
+	url = https://github.com/dfsp-spirit/fsbrain
+	shallow = true
+	registered = true
+[submodule "pkgfilecache"]
+	path = pkgfilecache
+	url = https://github.com/dfsp-spirit/pkgfilecache
+	shallow = true
+	registered = true
+[submodule "wal"]
+	path = wal
+	url = https://github.com/dfsp-spirit/wal
+	shallow = true
+	registered = true
