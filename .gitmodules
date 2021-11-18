@@ -23,8 +23,8 @@
 	url = https://github.com/dfsp-spirit/haze
 	shallow = true
 	registered = true
-[submodule "pckfilecache"]
-	path = pckfilecache
+[submodule "pkgfilecache"]
+	path = pkgfilecache
 	url = https://github.com/dfsp-spirit/pkgfilecache
 	shallow = true
 	registered = true

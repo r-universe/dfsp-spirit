@@ -14,7 +14,8 @@
     "package": "haze"
   },
   {
-    "package": "pckfilecache"
+    "package": "pkgfilecache",
+    "oncran": true
   },
   {
     "package": "wal",
