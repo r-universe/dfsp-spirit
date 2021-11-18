@@ -1,5 +1,8 @@
 [
   {
+    "package": "regfusionr"
+  },
+  {
     "package": "freesurferformats",
     "oncran": true
   },
@@ -8,11 +11,16 @@
     "oncran": true
   },
   {
-    "package": "pkgfilecache",
-    "oncran": true
+    "package": "haze"
+  },
+  {
+    "package": "pckfilecache"
   },
   {
     "package": "wal",
     "oncran": true
+  },
+  {
+    "package": "pcx"
   }
 ]
