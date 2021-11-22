@@ -33,8 +33,3 @@
 	url = https://github.com/dfsp-spirit/wal
 	shallow = true
 	registered = true
-[submodule "pcx"]
-	path = pcx
-	url = https://github.com/dfsp-spirit/pcx
-	shallow = true
-	registered = true
