@@ -33,3 +33,8 @@
 	url = https://github.com/dfsp-spirit/wal
 	shallow = true
 	registered = true
+[submodule "brainloc"]
+	path = brainloc
+	url = https://github.com/dfsp-spirit/brainloc
+	shallow = true
+	registered = true

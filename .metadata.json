@@ -20,5 +20,8 @@
   {
     "package": "wal",
     "oncran": true
+  },
+  {
+    "package": "brainloc"
   }
 ]
