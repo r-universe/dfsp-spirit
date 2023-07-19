@@ -1,40 +1,25 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/dfsp-spirit/universe
-	shallow = true
 	branch = HEAD
 [submodule "regfusionr"]
 	path = regfusionr
 	url = https://github.com/dfsp-spirit/regfusionr
-	shallow = true
-	registered = true
 [submodule "freesurferformats"]
 	path = freesurferformats
 	url = https://github.com/dfsp-spirit/freesurferformats
-	shallow = true
-	registered = true
 [submodule "fsbrain"]
 	path = fsbrain
 	url = https://github.com/dfsp-spirit/fsbrain
-	shallow = true
-	registered = true
 [submodule "haze"]
 	path = haze
 	url = https://github.com/dfsp-spirit/haze
-	shallow = true
-	registered = true
 [submodule "pkgfilecache"]
 	path = pkgfilecache
 	url = https://github.com/dfsp-spirit/pkgfilecache
-	shallow = true
-	registered = true
 [submodule "wal"]
 	path = wal
 	url = https://github.com/dfsp-spirit/wal
-	shallow = true
-	registered = true
 [submodule "brainloc"]
 	path = brainloc
 	url = https://github.com/dfsp-spirit/brainloc
-	shallow = true
-	registered = true
