@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/dfsp-spirit/universe
 	branch = HEAD
-[submodule "regfusionr"]
-	path = regfusionr
-	url = https://github.com/dfsp-spirit/regfusionr
+[submodule "brainloc"]
+	path = brainloc
+	url = https://github.com/dfsp-spirit/brainloc
 [submodule "freesurferformats"]
 	path = freesurferformats
 	url = https://github.com/dfsp-spirit/freesurferformats
@@ -17,9 +17,9 @@
 [submodule "pkgfilecache"]
 	path = pkgfilecache
 	url = https://github.com/dfsp-spirit/pkgfilecache
+[submodule "regfusionr"]
+	path = regfusionr
+	url = https://github.com/dfsp-spirit/regfusionr
 [submodule "wal"]
 	path = wal
 	url = https://github.com/dfsp-spirit/wal
-[submodule "brainloc"]
-	path = brainloc
-	url = https://github.com/dfsp-spirit/brainloc
