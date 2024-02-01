@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/dfsp-spirit/universe
+	url = https://github.com/dfsp-spirit/dfsp-spirit.r-universe.dev
 	branch = HEAD
 [submodule "brainloc"]
 	path = brainloc
