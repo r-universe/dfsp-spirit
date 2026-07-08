@@ -8,7 +8,7 @@
 [submodule "freesurferformats"]
 	path = freesurferformats
 	url = https://github.com/dfsp-spirit/freesurferformats
-	branch = *release
+	branch = v1.0.1
 [submodule "fsbrain"]
 	path = fsbrain
 	url = https://github.com/dfsp-spirit/fsbrain
