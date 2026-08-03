@@ -8,6 +8,7 @@
 [submodule "freesurferformats"]
 	path = freesurferformats
 	url = https://github.com/dfsp-spirit/freesurferformats
+	branch = *release
 [submodule "fsbrain"]
 	path = fsbrain
 	url = https://github.com/dfsp-spirit/fsbrain
@@ -20,6 +21,9 @@
 [submodule "regfusionr"]
 	path = regfusionr
 	url = https://github.com/dfsp-spirit/regfusionr
+[submodule "scimesh"]
+	path = scimesh
+	url = https://github.com/dfsp-spirit/scimesh
 [submodule "wal"]
 	path = wal
 	url = https://github.com/dfsp-spirit/wal
