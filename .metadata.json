@@ -1,6 +1,34 @@
 [
   {
+    "package": "regfusionr",
+    "releasetag": true
+  },
+  {
     "package": "freesurferformats",
+    "releasetag": true
+  },
+  {
+    "package": "fsbrain",
+    "releasetag": true
+  },
+  {
+    "package": "haze",
+    "releasetag": true
+  },
+  {
+    "package": "pkgfilecache",
+    "releasetag": true
+  },
+  {
+    "package": "wal",
+    "releasetag": true
+  },
+  {
+    "package": "brainloc",
+    "releasetag": true
+  },
+  {
+    "package": "scimesh",
     "releasetag": true
   }
 ]

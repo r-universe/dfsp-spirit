@@ -5,6 +5,7 @@
 [submodule "brainloc"]
 	path = brainloc
 	url = https://github.com/dfsp-spirit/brainloc
+	branch = *release
 [submodule "freesurferformats"]
 	path = freesurferformats
 	url = https://github.com/dfsp-spirit/freesurferformats
@@ -12,18 +13,24 @@
 [submodule "fsbrain"]
 	path = fsbrain
 	url = https://github.com/dfsp-spirit/fsbrain
+	branch = *release
 [submodule "haze"]
 	path = haze
 	url = https://github.com/dfsp-spirit/haze
+	branch = *release
 [submodule "pkgfilecache"]
 	path = pkgfilecache
 	url = https://github.com/dfsp-spirit/pkgfilecache
+	branch = *release
 [submodule "regfusionr"]
 	path = regfusionr
 	url = https://github.com/dfsp-spirit/regfusionr
+	branch = *release
 [submodule "scimesh"]
 	path = scimesh
 	url = https://github.com/dfsp-spirit/scimesh
+	branch = *release
 [submodule "wal"]
 	path = wal
 	url = https://github.com/dfsp-spirit/wal
+	branch = *release
