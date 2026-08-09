@@ -17,7 +17,7 @@
 [submodule "haze"]
 	path = haze
 	url = https://github.com/dfsp-spirit/haze
-	branch = v0.3.1
+	branch = v0.3.2
 [submodule "pkgfilecache"]
 	path = pkgfilecache
 	url = https://github.com/dfsp-spirit/pkgfilecache
