@@ -29,7 +29,7 @@
 [submodule "scimesh"]
 	path = scimesh
 	url = https://github.com/dfsp-spirit/scimesh
-	branch = v0.3.2
+	branch = v0.3.3
 [submodule "wal"]
 	path = wal
 	url = https://github.com/dfsp-spirit/wal
