@@ -21,7 +21,7 @@
 [submodule "pkgfilecache"]
 	path = pkgfilecache
 	url = https://github.com/dfsp-spirit/pkgfilecache
-	branch = v0.1.5
+	branch = v0.2.0
 [submodule "regfusionr"]
 	path = regfusionr
 	url = https://github.com/dfsp-spirit/regfusionr
